@@ -1,4 +1,4 @@
-package com.company;
+package com.company.other;
 
 public abstract class Figure {
     abstract public double area();

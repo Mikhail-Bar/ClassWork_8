@@ -1,6 +1,6 @@
 package com.company.figures;
 
-import com.company.Figure;
+import com.company.other.Figure;
 
 public class Rectangle extends Figure {
     private double a,b;
